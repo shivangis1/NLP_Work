@@ -1,0 +1,1 @@
+The performance of OpenCalais, a commercial entity extraction service, has been evaluated. This is done by building a text enrichment program, which takes plain text and outputs HTML with links to the detected entities. Then five random news articles were taken and enriched, and I manually counted how many entities OpenCalais missed or got wrong.
